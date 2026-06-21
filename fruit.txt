@@ -2,3 +2,5 @@ apple
 banana
 橘子
 黄瓜
+哈密瓜
+杏
